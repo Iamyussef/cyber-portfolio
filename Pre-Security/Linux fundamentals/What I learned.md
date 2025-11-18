@@ -21,3 +21,5 @@ I also got introduced to useful operators like & for launching background proces
 Takeaways
 
 This room gave me a strong starting point. I’m now more confident navigating Linux, handling files, and understanding how commands interact. It was a simple introduction, but it opened the door to a much bigger world in cybersecurity—and it made me excited to keep going.
+<img width="1917" height="760" alt="image" src="https://github.com/user-attachments/assets/bd4f53d8-aab7-4b3a-853a-3dff217fe690" />
+
