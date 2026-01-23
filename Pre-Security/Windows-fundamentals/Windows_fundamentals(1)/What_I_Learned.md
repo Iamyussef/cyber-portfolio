@@ -14,3 +14,5 @@ The room also introduced some system tools like the Control Panel and system con
 Finally, the room talked about Windows security. I learned about Windows Defender, the firewall, and the importance of updates. This part showed me that Windows already includes basic security features, but they only work well if they are correctly configured and kept up to date.
 
 In general, Windows Fundamentals 1 was a good starting point for me. It did not feel too difficult, but it helped me understand Windows in a more technical way. This room gave me a base that I can build on as I continue learning about IT and cybersecurity.
+
+<img width="1920" height="738" alt="Windows fundamentals1" src="https://github.com/user-attachments/assets/1a3bd4fe-fdb6-4a61-a923-e3bd1aed25b1" />
