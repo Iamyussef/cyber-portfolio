@@ -23,4 +23,5 @@ The SSH key section also connected nicely with tools I already use, so seeing th
 **⚡ 88 points earned**
 
 On to the next room.
+<img width="1918" height="731" alt="image" src="https://github.com/user-attachments/assets/453fea98-6b7e-49c3-9005-2a678b8406a2" />
 
