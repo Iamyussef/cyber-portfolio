@@ -23,3 +23,4 @@ fall regardless of the algorithm protecting them.
 
 The room wrapped up by drawing a clear line between hashing, encoding, and 
 encryption — three things that are easy to confuse but serve completely different purposes.
+<img width="1862" height="848" alt="image" src="https://github.com/user-attachments/assets/60c56544-4232-4f8e-8510-a0b377a8869d" />
