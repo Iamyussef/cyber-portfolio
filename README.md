@@ -4,8 +4,7 @@ Cybersecurity Learning Journey 🚀
 
 Welcome to my portfolio!
 
- I’m Youssef Idomar 👋  
-This repository is my personal learning portfolio where I document my progress, notes, and write-ups from **TryHackMe**.  This repo documents my progress as I learn cybersecurity step by step, mainly using TryHackMe.
+ I’m **Youssef-Idomar**. I bring persistence and self-discipline to cybersecurity, developed through sustained, self-directed study of offensive and defensive security skills. I value responsibility and reliability, and I'm drawn to this field because it demands constant learning as threats and technologies evolve. These qualities support organizations by ensuring consistent, trustworthy execution of security tasks from monitoring to incident response, backed by a mindset that keeps pace with new and emerging threats.
 
    📌 What you’ll find here
 
